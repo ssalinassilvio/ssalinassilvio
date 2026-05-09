@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @ssalinassilvio (Silvio Salinas)
-- 👀 I’m interested in web development, .NET development, and learning new technologies.
-- 🌱 I’m currently learning Astro and Node.js while enhancing my skills in SSIS, SSRS, and C# for .NET development.
-- 💞️ I’m looking to collaborate on projects involving web development, especially those using React.js, .NET Core, MVC5, WPF, or SASS/HTML for responsive designs.
-- 📫 How to reach me: ssalinas.silvio@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have over 8 years of experience in software development, with expertise in C#, SQL, MySQL, .NET Core, MVC5, WPF, JavaScript, and React.js. I’m passionate about creating responsive and efficient web applications.
+# 👋 Hi, I'm Silvio Salinas (@ssalinassilvio)
+
+💻 Passionate Software Developer with 8+ years of experience building scalable, responsive, and efficient applications.
+
+## 🚀 About Me
+
+* 👀 Interested in Web Development, .NET Development, Cloud Technologies, and modern software architectures.
+* 🌱 Currently learning Astro, Node.js, and improving my expertise in SSIS, SSRS, and advanced C#/.NET development.
+* ⚡ Strong background in:
+
+  * C#
+  * .NET Core / MVC5 / WPF
+  * SQL Server & MySQL
+  * React.js & JavaScript
+  * TypeScript
+  * SASS / HTML / Responsive Design
+  * REST APIs & Full Stack Development
+
+## 🤝 Collaboration
+
+I’m open to collaborating on projects involving:
+
+* React.js / Next.js
+* .NET Core APIs
+* Enterprise Applications
+* Cloud-based solutions
+* UI/UX focused responsive web applications
+
+## 📫 Contact
+
+* Email: [ssalinas.silvio@gmail.com](mailto:ssalinas.silvio@gmail.com)
+
+## ⚡ Fun Fact
+
+I enjoy transforming complex business processes into modern, user-friendly digital solutions while continuously exploring new technologies and development best practices.
 
 <!---
-ssalinassilvio/ssalinassilvio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ssalinassilvio/ssalinassilvio is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
