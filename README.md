@@ -1,38 +1,111 @@
-# 👋 Hi, I'm Silvio Salinas (@ssalinassilvio)
+# 👋 Hi, I'm Silvio Salinas
 
-💻 Passionate Software Developer with 8+ years of experience building scalable, responsive, and efficient applications.
+### 💻 Senior Software Developer | Full Stack Engineer | .NET & React
+
+I'm a passionate Software Developer with **8+ years of experience** designing, developing, and maintaining scalable web applications, enterprise systems, and modern software solutions.
+
+I specialize in **C#/.NET, React, Next.js, TypeScript, and SQL Server**, with a strong focus on clean architecture, performance, maintainability, and delivering reliable software that solves real business challenges.
+
+---
 
 ## 🚀 About Me
 
-* 👀 Interested in Web Development, .NET Development, Cloud Technologies, and modern software architectures.
-* 🌱 Currently learning Astro, Node.js, and improving my expertise in SSIS, SSRS, and advanced C#/.NET development.
-* ⚡ Strong background in:
+- 💼 Experienced in **Full Stack Development**, enterprise applications, and modern web technologies.
+- 🏗️ Focused on **Clean Architecture, SOLID principles, RESTful APIs, and scalable system design**.
+- ☁️ Working with **Azure, cloud-based applications, CI/CD pipelines, and DevOps workflows**.
+- ⚙️ Experienced in **backend services, frontend architectures, API integrations, and database optimization**.
+- 🧪 Committed to **code quality, automated testing, security, and continuous improvement**.
+- 📚 Continuously exploring new technologies, software architecture patterns, and AI-assisted development.
 
-  * C#
-  * .NET Core / MVC5 / WPF
-  * SQL Server & MySQL
-  * React.js & JavaScript
-  * TypeScript
-  * SASS / HTML / Responsive Design
-  * REST APIs & Full Stack Development
+## 🛠️ Tech Stack
 
-## 🤝 Collaboration
+### Backend Development
+- C# / .NET 10 / ASP.NET Core
+- ASP.NET MVC / .NET Framework
+- RESTful APIs / Minimal APIs
+- Entity Framework Core / Dapper
+- Clean Architecture / SOLID / Dependency Injection
+- Authentication & Authorization / JWT / OAuth 2.0
 
-I’m open to collaborating on projects involving:
+### Frontend Development
+- React.js / Next.js
+- TypeScript / JavaScript (ES6+)
+- HTML5 / CSS3 / SASS
+- Tailwind CSS
+- Responsive Web Design
+- Component-Based Architecture
 
-* React.js / Next.js
-* .NET Core APIs
-* Enterprise Applications
-* Cloud-based solutions
-* UI/UX focused responsive web applications
+### Databases
+- Microsoft SQL Server
+- MySQL
+- T-SQL / Stored Procedures
+- Database Design & Optimization
+- Data Access & Integration
 
-## 📫 Contact
+### Cloud & DevOps
+- Microsoft Azure
+- Azure DevOps / GitHub / GitLab
+- Git / CI/CD
+- Docker
+- Application Configuration & Environment Management
 
-* Email: [ssalinas.silvio@gmail.com](mailto:ssalinas.silvio@gmail.com)
+### Software Engineering
+- Clean Code & Design Patterns
+- Unit & Integration Testing
+- API Design & System Integration
+- Code Reviews & Refactoring
+- Agile / Scrum
+- Performance Optimization & Application Security
 
-## ⚡ Fun Fact
+---
 
-I enjoy transforming complex business processes into modern, user-friendly digital solutions while continuously exploring new technologies and development best practices.
+## 🎯 What I Focus On
+
+I enjoy building software that combines **strong backend architecture with intuitive frontend experiences**.
+
+My main areas of interest include:
+
+- 🏢 Enterprise application development
+- 🌐 Modern full-stack web applications
+- 🧩 Scalable APIs and distributed systems
+- 🏗️ Software architecture and maintainability
+- ☁️ Cloud-native applications and DevOps
+- 🔐 Secure and reliable software solutions
+- 🤖 AI-assisted software engineering
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on projects involving:
+
+- **.NET / ASP.NET Core** backend systems
+- **React / Next.js** applications
+- **Enterprise software and SaaS platforms**
+- **Cloud-based and API-driven solutions**
+- **Software modernization and architecture improvements**
+
+I value collaboration, knowledge sharing, and building high-quality software that delivers meaningful results.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [ssalinas.silvio@gmail.com](mailto:ssalinas.silvio@gmail.com)
+
+💻 **GitHub:** [@ssalinassilvio](https://github.com/ssalinassilvio)
+
+---
+
+### ⚡ A Little More About Me
+
+I enjoy transforming complex business requirements into **efficient, maintainable, and user-friendly digital solutions**.
+
+For me, great software isn't just about writing code — it's about solving problems, making thoughtful architectural decisions, and continuously improving the way we build technology.
+
+---
+
+*Always learning. Always building. Always improving.*
 
 <!---
 ssalinassilvio/ssalinassilvio is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
